@@ -1,0 +1,190 @@
+.body {
+    border: 6px solid yellow;
+    color: rgb(0, 175, 240);
+    font-family: 'Roboto', sans-serif;
+    background-color: rgb(202, 214, 213);
+    margin-right: 8%;
+    margin-left: 8%;
+}
+
+.nev_bar_div_flex_outter_container {
+    border: 6px solid black;
+    height: 100px;
+    width: 100%;
+}
+
+.Website_name_div_flex_inner_container {
+    border: 6px solid rgb(25, 0, 255);
+    float: left;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    width: 50%;
+    background-image: linear-gradient();
+}
+
+.Gytonda_logo {
+    border: 6px solid red;
+    height: 100%;
+    width: 25%;
+    border-radius: 50%;
+}
+
+.h1_Website_name_div_flex_inner_container {
+    padding-left: 5%;
+    font-size: 300%;
+    font-family: cursive;
+}
+
+.nev_bar_div_flex_inner_container {
+    border: 6px solid red;
+    float: right;
+    height: 50%;
+    width: 25%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-top: 1.5%;
+}
+
+.nev_bar_image_Properties_Instagram {
+    /* border: 6px solid red; */
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 5px;
+    padding-left: 5px;
+    border-radius: 22px;
+    height: 35px;
+    width: 35px;
+    background-image: linear-gradient(#f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%);
+}
+
+.nev_bar_image_Properties_Twitter {
+    /* border: 6px solid red; */
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 5px;
+    padding-left: 5px;
+    border-radius: 22px;
+    height: 35px;
+    width: 35px;
+    background-color: rgb(29, 161, 242);
+}
+
+.nev_bar_image_Properties_WhatsApp {
+    /* border: 6px solid red; */
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 5px;
+    padding-left: 5px;
+    border-radius: 22px;
+    height: 35px;
+    width: 35px;
+    background-color: rgb(7, 94, 84);
+}
+
+.nev_bar_image_Properties_YouTube {
+    /* border: 6px solid red; */
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 5px;
+    padding-left: 5px;
+    border-radius: 22px;
+    height: 35px;
+    width: 35px;
+    background-color: rgb(255, 0, 0);
+}
+
+.nev_bar_image_Properties_Only_Fans {
+    /* border: 6px solid red; */
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 5px;
+    padding-left: 5px;
+    border-radius: 22px;
+    height: 35px;
+    width: 35px;
+    background-image: linear-gradient(black, blue);
+}
+
+.wadi_div {
+    margin-top: 5%;
+    border: 6px solid rgb(247, 5, 146);
+    display: flex;
+}
+
+.para_1_2_div {
+    border: 6px solid red;
+    width: 45%;
+}
+
+.para1 {
+    border: 6px solid rgb(42, 177, 30);
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 50px;
+    margin-left: 1%;
+    margin-right: 1%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: center;
+    font-size: 120%;
+    border-radius: 22px;
+    background-color: rgb(0, 0, 0);
+}
+
+.para2 {
+    border: 6px solid rgb(18, 18, 231);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: 50px;
+    margin-left: 1%;
+    margin-right: 1%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: center;
+    font-size: 120%;
+    border-radius: 22px;
+    background-color: rgb(0, 0, 0);
+}
+
+.map_outter_div {
+    border: 6px solid rgb(129, 65, 65);
+    width: 55%;
+}
+
+.map_inner_div1 {
+    border: 6px solid rgb(0, 0, 0);
+    width: 100%;
+}
+
+.map {
+    border: 0;
+    padding-left: 1.5%;
+    padding-right: 1.5%;
+    width: 97%;
+    height: 450px;
+}
+
+.map_inner_div2 {
+    border: 6px solid rgb(0, 4, 255);
+}
+
+.para3 {
+    border: 6px solid rgb(18, 18, 231);
+    font-family: 'Roboto', sans-serif;
+    margin-top: 50px;
+    margin-left: 1%;
+    margin-right: 1%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: center;
+    font-size: 120%;
+    border-radius: 22px;
+    background-color: rgb(0, 0, 0);
+}
